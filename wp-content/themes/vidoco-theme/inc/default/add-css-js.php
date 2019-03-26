@@ -64,8 +64,8 @@ if(!function_exists('p_load_css_js')){
         // end alo_phone
         // begin custom               
         wp_enqueue_style('stylecss',get_template_directory_uri() . '/assets/css/style.css',array(),@$js_css_ran,'all');
-        wp_enqueue_script('stylefuncjs',get_template_directory_uri() . '/assets/js/function.js',array('jquery'),@$js_css_ran,true);                             
-        wp_enqueue_script('stylecustomjs',get_template_directory_uri() . '/assets/js/custom.js',array('jquery'),@$js_css_ran,true);
+        wp_enqueue_script('funcjs',get_template_directory_uri() . '/assets/js/function.js',array('jquery'),@$js_css_ran,true);                             
+        wp_enqueue_script('customjs',get_template_directory_uri() . '/assets/js/custom.js',array('jquery'),@$js_css_ran,true);
         // end custom
     }
 }   
