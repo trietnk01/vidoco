@@ -1,0 +1,73 @@
+@font-face {
+	font-family: 'Roboto-Regular' ;
+	src: url( '../fonts/Roboto/Roboto-Regular.ttf' ) format('truetype');	 
+}
+@font-face {
+	font-family: 'Roboto-Bold' ;
+	src: url( '../fonts/Roboto/Roboto-Bold.ttf' ) format('truetype');	 
+}
+@font-face {
+	font-family: 'Roboto-BoldItalic' ;
+	src: url( '../fonts/Roboto/Roboto-BoldItalic.ttf' ) format('truetype');	 
+}
+@font-face {
+	font-family: 'RobotoCondensed-Regular' ;
+	src: url( '../fonts/Roboto-Condensed/RobotoCondensed-Regular.ttf' ) format('truetype');	 
+}
+@font-face {
+	font-family: 'RobotoCondensed-Bold' ;
+	src: url( '../fonts/Roboto-Condensed/RobotoCondensed-Bold.ttf' ) format('truetype');	 
+}
+@font-face {
+	font-family: 'OpenSans-Regular' ;
+	src: url( '../fonts/Open_Sans/OpenSans-Regular.ttf' ) format('truetype');	 
+}
+@font-face {
+	font-family: 'OpenSans-Bold' ;
+	src: url( '../fonts/Open_Sans/OpenSans-Bold.ttf' ) format('truetype');	 
+}
+@font-face {
+	font-family: 'OpenSans-BoldItalic' ;
+	src: url( '../fonts/Open_Sans/OpenSans-BoldItalic.ttf' ) format('truetype');	 
+}
+@font-face {
+	font-family: 'NotoSerif-Regular' ;
+	src: url( '../fonts/Noto_Serif/NotoSerif-Regular.ttf' ) format('truetype');	 
+}
+@font-face {
+	font-family: 'NotoSerif-Bold' ;
+	src: url( '../fonts/Noto_Serif/NotoSerif-Bold.ttf' ) format('truetype');	 
+}
+@font-face {
+	font-family: 'NotoSerif-BoldItalic' ;
+	src: url( '../fonts/Noto_Serif/NotoSerif-BoldItalic.ttf' ) format('truetype');	 
+}
+@font-face {
+	font-family: 'K2D-Regular' ;
+	src: url( '../fonts/K2DV2/K2D-Regular.ttf' ) format('truetype');	 
+}
+@font-face {
+	font-family: 'K2D-Bold' ;
+	src: url( '../fonts/K2DV2/K2D-Bold.ttf' ) format('truetype');	 
+}
+@font-face {
+	font-family: 'K2D-BoldItalic' ;
+	src: url( '../fonts/K2DV2/K2D-BoldItalic.ttf' ) format('truetype');	 
+}
+@font-face {
+	font-family: 'font-times-new-roman' ;
+	src: url( '../fonts/TimesNewRoman/font-times-new-roman.ttf' ) format('truetype');	 
+}
+$f_regular:'Roboto-Regular';
+$f_bold:'Roboto-Bold';
+$f_bold_italic:'Roboto-BoldItalic';
+$f_regular2:'OpenSans-Regular';
+$f_bold2:'OpenSans-Bold';
+$f_bold_italic2:'OpenSans-BoldItalic';
+$f_regular3:'NotoSerif-Regular';
+$f_bold3:'NotoSerif-Bold';
+$f_bold_italic3:'NotoSerif-BoldItalic';
+$f_regular4:'K2D-Regular';
+$f_bold4:'K2D-Bold';
+$f_bold_italic4:'K2D-BoldItalic';
+$f_regular5:"font-times-new-roman";

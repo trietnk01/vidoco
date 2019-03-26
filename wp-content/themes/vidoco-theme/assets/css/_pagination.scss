@@ -1,0 +1,36 @@
+.div-pagination{
+	.page-numbers{
+		padding:0px;
+		list-style-type:none;
+		li{
+			display:inline-block;
+			a,span{
+				padding:7px 12px;
+				color:white;
+				background:#dedede;
+				
+				margin:0px 2px;
+
+				&:hover{
+					background:$mau;
+				}
+			}
+			span{
+				cursor:default;
+				background:$mau;
+			}
+
+			&:first-child{
+				a,span{
+					margin-left:0px;
+				}
+			}
+
+			&:last-child{
+				a,span{
+					margin-right:0px;
+				}
+			}
+		}
+	}
+}

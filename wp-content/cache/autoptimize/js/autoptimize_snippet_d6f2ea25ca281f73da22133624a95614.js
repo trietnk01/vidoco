@@ -1,0 +1,2 @@
+function tuVanShowHide(){var tu_van_box_ctrl=jQuery('.tu_van_box');var right_value=jQuery(tu_van_box_ctrl).css("right");if(right_value=='0px'){jQuery(tu_van_box_ctrl).css({right:'-180px'});}else{jQuery(tu_van_box_ctrl).css({right:'0px'});}}
+jQuery(document).ready(function($){$('.counter').counterUp({delay:10,time:1000});setInterval(tuVanShowHide,3000);});

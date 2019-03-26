@@ -1,0 +1,53 @@
+@mixin p-web($name,$tt...){ #{$name}:$tt;-webkit-#{$name}:$tt;-moz-#{$name}:$tt;-ms-#{$name}:$tt;-o-#{$name}:$tt;}
+@mixin p-kf( $ani ){@keyframes #{$ani}{@content;}@-webkit-keyframes #{$ani}{@content;}@-moz-keyframes #{$ani}{@content;}@-ms-keyframes #{$ani}{@content;}@-o-keyframes #{$ani}{@content;}}
+@mixin p-tron($x,$y:''){width:$x;height:$x;line-height:$x;text-align:center;border-radius:50%; @if ($y != '') { background:$y } }
+@mixin p-placeholder {&::-webkit-input-placeholder {@content}&:-moz-placeholder{@content}&::-moz-placeholder{@content}&:-ms-input-placeholder{@content}}
+
+// @include p-web(transition, all 200ms ease)
+
+// @include p-tron(30px,#ccc);
+
+
+// input[type="text"]{
+// 	@include p-placeholder{
+// 		color:green !important;
+// 	 }
+// }
+
+
+//  style="color:red;--color-h:green"
+
+@mixin p-font( $font, $link_font ){
+	
+	@font-face {
+	    font-family: $font ;
+	    src: url( $link_font ) format('truetype');
+	    // font-style: normal;
+	    // font-weight: normal;
+	}
+
+	.f-#{$font}{
+		font-family: $font,arial;
+	}
+
+	.f-#{$font}-i{
+		font-family: $font,arial !important;
+	}
+}
+
+@mixin p-mau($name,$mau){
+	.p-#{$name},.p-cl-#{$name}{ color:$mau; }
+	.p-bg-#{$name}{background:$mau;}
+
+	.p-ho-#{$name}:hover,.p-ho-cl-#{$name}:hover{ color:$mau; }
+	.p-ho-bg-#{$name}:hover{background:$mau;}
+}
+
+
+@mixin placeholder {
+   &.placeholder { @content; }
+    &:-moz-placeholder { @content; }
+    &::-moz-placeholder { @content; }
+    &:-ms-input-placeholder { @content; }
+    &::-webkit-input-placeholder { @content; } 
+}

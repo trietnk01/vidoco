@@ -1,0 +1,8 @@
+/*!
+ * AC Form Field repeater 0.0.1
+ *
+ * Copyright 2017, Richie Arnold and AmberCouch - http://ambercouch.co.uk
+ * Released under the WTFPL license - http://sam.zoy.org/wtfpl/
+ *
+ */
+(function(b){if(b("[data-ac-repeater]").length>0){var a={clones:[]};b("[data-ac-repeater]").each(function(k){var l=b(this);var d=l.attr("data-ac-repeater-text")?l.attr("data-ac-repeater-text"):"Repeat fields";var g="acAdder"+k;var e='<button id="'+g+'">'+d+"</button>";var j=l.attr("data-ac-repeater-position")?l.attr("data-ac-repeater-position"):"prepend";var c=l.attr("data-ac-repeater")?l.attr("data-ac-repeater"):null;console.log("pos = "+j);console.log("arrayName = "+c);a.clones.push(l);var h={cloneCount:1,cloneNames:[],element:l,repeaterText:d,adderId:g,adder:e,adderPosition:j,arrayName:c};a.clones[k].settings=h;var f=a.clones[k].settings;if(f.adderPosition!=="before"){l.append(f.adder)}else{l.prepend(f.adder)}var m=f.element.clone();b(document).on("click","#"+g,function(){b(this).remove();if(f.cloneNames.length==0){b("input",m).each(function(){f.cloneNames.push(b(this).attr("name"))});b("input",f.element).each(function(){if(f.arrayName===null){b(this).attr("name",b(this).attr("name")+"-"+f.cloneCount)}else{b(this).attr("name",f.arrayName+"["+f.arrayName+f.cloneCount+"]["+b(this).attr("name")+"]")}});f.cloneCount=f.cloneCount+1}b("input",m).each(function(n){var o;if(f.arrayName===null){o=f.cloneNames[n]+"-"+f.cloneCount}else{o=f.arrayName+"["+f.arrayName+f.cloneCount+"]["+f.cloneNames[n]+"]"}b(this).attr("name",o)});f.element.after(m);f.cloneCount=f.cloneCount+1;f.element=m;m=b(m).clone()})})}})(window.jQuery);

@@ -1,0 +1,77 @@
+.ddsmoothmenu{  
+  ul{
+    li{
+      ul{
+        li{
+          a{ 
+            font-family:$f_regular;
+            font-size: 14px;
+            text-transform: uppercase;                
+            background-color: $logo_bg;
+            &:link,&:visited{
+              color: #fff;
+            }          
+          }
+        }
+      }
+    }    
+  }
+  >ul{    
+    >li{
+      >a{
+        font-family:$f_regular;
+        font-size: 15px;
+        text-transform: uppercase;               
+        background:transparent;                 
+        padding:35px 10px;         
+        border-right: 0;
+        @media(max-width: 1024px){
+          padding: 35px 4px;
+        } 
+        &:link,&:visited{
+          color: #000000;
+        }                     
+        &:hover,&.selected{  
+          color: $logo_bg;
+          background:none !important;
+        }         
+      }
+      &:last-child{
+        a{
+          border-right: 0;
+        }
+      } 
+      &.current-menu-item{
+        >a{
+          background-color: none;                  
+          color: $logo_bg;
+        }
+      }   
+    }
+  }
+  >ul{
+    >li{      
+      >ul{
+        margin-top: -20px;
+        li{
+          a{
+            border-right: 1px solid #0090cf ;
+            border-bottom: 1px solid #0090cf;
+            width: 230px;
+            padding: 10px 10px;   
+            font-family: $f_bold;                     
+            &:hover,&.selected{
+              background-color: $logo_bg !important;
+              color: #fff;            
+            }
+          }
+          &.current-menu-item{
+            a{
+              background-color: $logo_bg !important;                           
+            }
+          }   
+        }
+      }
+    }    
+  }  
+}

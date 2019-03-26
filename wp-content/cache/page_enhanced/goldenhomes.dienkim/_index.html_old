@@ -1,0 +1,876 @@
+<!DOCTYPE html><html
+lang="vi" prefix="og: http://ogp.me/ns#" data-user-agent="Mozilla/5.0 (iPad; CPU OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1"><head><meta
+charset="UTF-8" /><meta
+http-equiv="X-UA-Compatible" content="IE=edge"><meta
+name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /><link
+rel="icon" href="http://goldenhomes.dienkim/wp-content/uploads/logo.png" sizes="16x16" /><link
+rel="profile" href="http://gmpg.org/xfn/11" /><link
+type="text/css" media="all" href="http://goldenhomes.dienkim/wp-content/cache/autoptimize/css/autoptimize_2631a6eea285691db2bdba7f7b39e1bf.css" rel="stylesheet" /><title>Website - Một trang web mới sử dụng WordPress</title><meta
+name="description" content="Website - Một trang web mới sử dụng WordPress"/><link
+rel="canonical" href="http://goldenhomes.dienkim/" /><meta
+property="og:locale" content="vi_VN" /><meta
+property="og:type" content="website" /><meta
+property="og:title" content="Website - Một trang web mới sử dụng WordPress" /><meta
+property="og:description" content="Website - Một trang web mới sử dụng WordPress" /><meta
+property="og:url" content="http://goldenhomes.dienkim/" /><meta
+property="og:site_name" content="Website" /><meta
+name="twitter:card" content="summary_large_image" /><meta
+name="twitter:description" content="Website - Một trang web mới sử dụng WordPress" /><meta
+name="twitter:title" content="Website - Một trang web mới sử dụng WordPress" /> <script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/goldenhomes.dienkim\/","name":"Website","potentialAction":{"@type":"SearchAction","target":"http:\/\/goldenhomes.dienkim\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script> <link
+rel='dns-prefetch' href='//s.w.org' /><link
+rel="alternate" type="application/rss+xml" title="Dòng thông tin Website &raquo;" href="http://goldenhomes.dienkim/feed" /><link
+rel="alternate" type="application/rss+xml" title="Dòng phản hồi Website &raquo;" href="http://goldenhomes.dienkim/comments/feed" /> <script type='text/javascript' src='http://goldenhomes.dienkim/wp-includes/js/jquery/jquery.js'></script> <link
+rel='https://api.w.org/' href='http://goldenhomes.dienkim/wp-json/' /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="http://goldenhomes.dienkim/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://goldenhomes.dienkim/wp-includes/wlwmanifest.xml" /><meta
+name="generator" content="WordPress 4.9.8" /> <script data-cfasync="false">window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Share",
+	Save: "Save",
+	Subscribe: "Subscribe",
+	Email: "Email",
+	Bookmark: "Bookmark",
+	ShowAll: "Show all",
+	ShowLess: "Show less",
+	FindServices: "Find service(s)",
+	FindAnyServiceToAddTo: "Instantly find any service to add to",
+	PoweredBy: "Powered by",
+	ShareViaEmail: "Share via email",
+	SubscribeViaEmail: "Subscribe via email",
+	BookmarkInYourBrowser: "Bookmark in your browser",
+	BookmarkInstructions: "Press Ctrl+D or \u2318+D to bookmark this page",
+	AddToYourFavorites: "Add to your favorites",
+	SendFromWebOrProgram: "Send from any email address or email program",
+	EmailProgram: "Email program",
+	More: "More&#8230;"
+};
+
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");</script> </head><body
+class="home blog body_is_one_author body_is_localhost body_wp_is_mobile" id="body-top"><div
+class="wrapper_logo"><div
+class="box_logo"></div></div><div
+class="section-menu-home"><div
+class="header_phone_social"><div
+class="container-fluid"><div
+class="row"><div
+class="col-5"><div
+class="phone_header_top">
+<a
+href="tel:0903600002"><div
+class="phone_icon">
+<img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/phone_icon.png" alt="tên hình"></div><div
+class="header_top_sdt_1">
+0903 600 002</div><div
+class="clr"></div>
+</a></div></div><div
+class="col-2"><div
+class="logo_box_header">
+<a
+href="http://goldenhomes.dienkim" title="Logo">
+<img
+src="http://goldenhomes.dienkim/wp-content/uploads/logo.png" alt="Logo" >
+</a></div></div><div
+class="col-5"><div
+class="header_so_se_box"><div
+class="header_social"><div
+class="header_social_icon">
+<a
+href="https://www.facebook.com/" title="" target="_blank" rel="nofollow">
+<i
+class="fa fa-facebook"></i>
+</a></div><div
+class="header_social_icon">
+<a
+href="https://twitter.com/" title="" target="_blank" rel="nofollow">
+<i
+class="fa fa-twitter"></i>
+</a></div><div
+class="header_social_icon">
+<a
+href="https://www.youtube.com/" title="" target="_blank" rel="nofollow">
+<i
+class="fa fa-youtube-play"></i>
+</a></div><div
+class="header_social_icon">
+<a
+href="https://www.google.com/" title="" target="_blank" rel="nofollow">
+<i
+class="fa fa-google-plus"></i>
+</a></div></div><div
+class="header_search"><a
+href="javascript:void(0);"><i
+class="fa fa-search" aria-hidden="true"></i></a></div><div
+class="clr"></div></div></div></div></div></div><div
+class="mobile_navbar">
+<nav
+class="navbar navbar-expand-lg navbar-light bg-light"><div
+class="box_logo_mobile">
+<a
+href="http://goldenhomes.dienkim" title="Logo">
+<img
+src="http://goldenhomes.dienkim/wp-content/uploads/logo.png" alt="Logo" >
+</a></div>
+<button
+class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span
+class="navbar-toggler-icon"></span>
+</button><div
+class="collapse navbar-collapse" id="navbarSupportedContent"><div
+class="menu-mainmenu-container"><ul
+id="menu-mainmenu" class="navbar-nav mr-auto"><li
+id="menu-item-136" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-136"><a
+href="http://goldenhomes.dienkim">Trang chủ</a></li><li
+id="menu-item-121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a
+href="http://goldenhomes.dienkim/gioi-thieu">Giới thiệu</a></li><li
+id="menu-item-122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-122"><a
+href="#">Sản phẩm</a></li><li
+id="menu-item-123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-123"><a
+href="#">Dịch vụ</a></li><li
+id="menu-item-125" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-125"><a
+href="http://goldenhomes.dienkim/tin-tuc">Tin tức</a></li><li
+id="menu-item-126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-126"><a
+href="#">Liên hệ</a></li></ul></div></div>
+</nav></div></div><div
+class="menu_bg"><div
+class="container"><div
+class="row"><div
+class="col"><div
+class="menu-mainmenu-container"><ul
+id="menu-mainmenu-1" class="list-menu-1 list-unstyled"><li
+class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-136"><a
+href="http://goldenhomes.dienkim">Trang chủ</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a
+href="http://goldenhomes.dienkim/gioi-thieu">Giới thiệu</a></li><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-122"><a
+href="#">Sản phẩm</a></li><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-123"><a
+href="#">Dịch vụ</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-125"><a
+href="http://goldenhomes.dienkim/tin-tuc">Tin tức</a></li><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-126"><a
+href="#">Liên hệ</a></li></ul></div></div></div></div></div><div
+class="tu_van_box"><div
+class="icon_phone"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/phone_support.png" alt="tên hình"></div><div
+class="text_phone"><div
+class="tv_24_7">TƯ VẤN 24/7</div><div
+class="sdt_tu_van"><a
+href="tel:0903600002">0903 600 002</a></div></div><div
+class="clr"></div></div><div
+class="banner_slideshow"><div
+class="owl_carousel_banner owl-carousel owl-theme owl-loaded"><div
+class="item"><img
+src="http://goldenhomes.dienkim/wp-content/uploads/banner.png" alt="tên hình"></div><div
+class="item"><img
+src="http://goldenhomes.dienkim/wp-content/uploads/banner.png" alt="tên hình"></div><div
+class="item"><img
+src="http://goldenhomes.dienkim/wp-content/uploads/banner.png" alt="tên hình"></div></div></div><div
+class="hr_slideshow"></div><div
+class="bg_ck_mp_tc"><div
+class="container"><div
+class="row"><div
+class="col-lg-4"><div
+class="ck_wrapper"><div
+class="ck_mp_tc_left"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/icon_camket.png" alt="tên hình"></div><div
+class="ck_mp_tc_right">Cam kết 100% gỗ thật</div><div
+class="clr"></div></div></div><div
+class="col-lg-4"><div
+class="mp_wrapper"><div
+class="ck_mp_tc_left"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/icon_mienphinoithat.png" alt="tên hình"></div><div
+class="ck_mp_tc_right">Miễn phí thiết kế tủ bếp</div><div
+class="clr"></div></div></div><div
+class="col-lg-4"><div
+class="tc_wrapper"><div
+class="ck_mp_tc_left"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/icon_thicong.png" alt="tên hình"></div><div
+class="ck_mp_tc_right">Thi công đúng tiến độ</div><div
+class="clr"></div></div></div></div></div></div><div
+class="bg_bottom"><div
+class="container"><div
+class="row"><div
+class="col"><h2 class="tsnhtv_goldenhomes">Tại sao nên hợp tác với Golden Homes</h2></div></div><div
+class="row"><div
+class="col-lg-3 col-md-6"><div
+class="why_box"><div
+class="why_box_solieu"><span
+class="counter">500</span>+</div><div
+class="why_box_hr"></div><div
+class="why_box_txt">Khách hàng tiêu biểu</div></div></div><div
+class="col-lg-3 col-md-6"><div
+class="why_box"><div
+class="why_box_solieu"><span
+class="counter">30</span>+</div><div
+class="why_box_hr"></div><div
+class="why_box_txt">Thợ tay nghề cao</div></div></div><div
+class="col-lg-3 col-md-6"><div
+class="why_box"><div
+class="why_box_solieu"><span
+class="counter">9</span>+</div><div
+class="why_box_hr"></div><div
+class="why_box_txt">Năm kinh nghiệm</div></div></div><div
+class="col-lg-3 col-md-6"><div
+class="why_box"><div
+class="why_box_solieu"><span
+class="counter">99</span>%</div><div
+class="why_box_hr"></div><div
+class="why_box_txt">Khách hàng hài lòng</div></div></div></div></div></div><div
+class="clr"></div><div
+class="container"><div
+class="row"><div
+class="col"><h2 class="dvcchungtoi">Dịch vụ của chúng tôi</h2><div
+class="paracell"><div
+class="k2-left"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/k2-left.png" alt="tên hình"></div><div
+class="tieude"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/icon_tieude.png" alt="tên hình"></div><div
+class="k2-right"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/k2-right.png" alt="tên hình"></div></div></div></div></div><div
+class="container"><div
+class="row"><div
+class="col-sm-6"><div
+class="dvchungtoi_box"><div
+class="our_service_img">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><div
+class="overlay_top"></div><div
+class="our_service_hinh"><img
+alt="tên hình" src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/img_1.png" ></div><div
+class="overlay_bottom"></div><div
+class="overlay_link"><div
+class="overlay_link_wp"><i
+class="fa fa-link" aria-hidden="true"></i></div></div>
+</a></div><h3 class="service_h"><a
+href="javascript:void(0);" title="tiêu đề tên">Thiết kế nội thất</a></h3><div
+class="service_line"></div><div
+class="service_about_intro">
+Chúng tôi chuyên sản xuất sản phẩm tủ bếp 100% gỗ công nghiệp An Cường như tủ bếp Acrylic, tủ bếp Laminate, tủ bếp Melamine, tủ bếp MDF, tủ bếp MFC...</div></div></div><div
+class="col-sm-6"><div
+class="dvchungtoi_box"><div
+class="our_service_img">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><div
+class="overlay_top"></div><div
+class="our_service_hinh"><img
+alt="tên hình" src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/img_2.png"></div><div
+class="overlay_bottom"></div><div
+class="overlay_link"><div
+class="overlay_link_wp"><i
+class="fa fa-link" aria-hidden="true"></i></div></div>
+</a></div><h3 class="service_h"><a
+href="javascript:void(0);" title="tiêu đề tên">Thi công nội thất</a></h3><div
+class="service_line"></div><div
+class="service_about_intro">
+Chúng tôi chuyên sản xuất sản phẩm tủ bếp 100% gỗ công nghiệp An Cường như tủ bếp Acrylic, tủ bếp Laminate, tủ bếp Melamine, tủ bếp MDF, tủ bếp MFC...</div></div></div></div></div><div
+class="wood_box"><div
+class="container"><div
+class="row"><div
+class="col"><h2 class="dvcchungtoi">Đồ gỗ</h2><div
+class="paracell"><div
+class="k2-left"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/k2-left.png" alt="tên hình"></div><div
+class="tieude"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/icon_tieude.png" alt="tên hình"></div><div
+class="k2-right"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/k2-right.png" alt="tên hình"></div></div></div></div><div
+class="row"><div
+class="col-sm-4"><div
+class="wood_box_wp"><div
+class="wood_img">
+<a
+href="javascript:void(0)" title="tiêu đề tên"><div
+class="do_go_img"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/img_3.png" alt="tên hình"></div><div
+class="overlay">Chi tiết</div>
+</a></div><h3 class="h3_wood"><a
+href="javascript:void(0);" title="tiêu đề tên">Tủ gỗ #01</a></h3><div
+class="service_line_wood"></div><div
+class="intro_wood">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc arcu purus, ultricies id ex ac, sollicitudin sagittis diam. Etiam libero ipsum
+sagittis bibendum ex ac</div></div></div><div
+class="col-sm-4"><div
+class="wood_box_wp"><div
+class="wood_img">
+<a
+href="javascript:void(0)" title="tiêu đề tên"><div
+class="do_go_img"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/img_4.png" alt="tên hình"></div><div
+class="overlay">Chi tiết</div>
+</a></div><h3 class="h3_wood"><a
+href="javascript:void(0);" title="tiêu đề tên">Giường gỗ #01</a></h3><div
+class="service_line_wood"></div><div
+class="intro_wood">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc arcu purus, ultricies id ex ac, sollicitudin sagittis diam. Etiam libero ipsum
+sagittis bibendum ex ac</div></div></div><div
+class="col-sm-4"><div
+class="wood_box_wp"><div
+class="wood_img">
+<a
+href="javascript:void(0)" title="tiêu đề tên"><div
+class="do_go_img"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/img_5.png" alt="tên hình"></div><div
+class="overlay">Chi tiết</div>
+</a></div><h3 class="h3_wood"><a
+href="javascript:void(0);" title="tiêu đề tên">Tủ gỗ #01</a></h3><div
+class="service_line_wood"></div><div
+class="intro_wood">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc arcu purus, ultricies id ex ac, sollicitudin sagittis diam. Etiam libero ipsum
+sagittis bibendum ex ac</div></div></div></div></div><div
+class="readmore">
+<a
+href="javascript:void(0)" title="tiêu đề tên">Xem tất cả</a></div></div><div
+class="rem_cua_box"><div
+class="container"><div
+class="row"><div
+class="col"><h2 class="dvcchungtoi">Rèm cửa</h2><div
+class="paracell"><div
+class="k2-left"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/k2-left.png" alt="tên hình"></div><div
+class="tieude"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/icon_tieude.png" alt="tên hình"></div><div
+class="k2-right"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/k2-right.png" alt="tên hình"></div></div></div></div><div
+class="row"><div
+class="col-sm-4"><div
+class="rem_cua_box_wp"><div
+class="wood_img">
+<a
+href="javascript:void(0)" title="tiêu đề tên"><div
+class="do_go_img"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/img_6.png" alt="tên hình"></div><div
+class="overlay">Chi tiết</div>
+</a></div><h3 class="h3_wood"><a
+href="javascript:void(0);" title="tiêu đề tên">Rèm cửa #01</a></h3><div
+class="service_line_wood"></div><div
+class="intro_wood">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc arcu purus, ultricies id ex ac, sollicitudin sagittis diam. Etiam libero ipsum
+sagittis bibendum ex ac</div></div></div><div
+class="col-sm-4"><div
+class="rem_cua_box_wp"><div
+class="wood_img">
+<a
+href="javascript:void(0)" title="tiêu đề tên"><div
+class="do_go_img"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/img_7.png" alt="tên hình"></div><div
+class="overlay">Chi tiết</div>
+</a></div><h3 class="h3_wood"><a
+href="javascript:void(0);" title="tiêu đề tên">Rèm cửa #02</a></h3><div
+class="service_line_wood"></div><div
+class="intro_wood">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc arcu purus, ultricies id ex ac, sollicitudin sagittis diam. Etiam libero ipsum
+sagittis bibendum ex ac</div></div></div><div
+class="col-sm-4"><div
+class="rem_cua_box_wp"><div
+class="wood_img">
+<a
+href="javascript:void(0)" title="tiêu đề tên"><div
+class="do_go_img"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/img_8.png" alt="tên hình"></div><div
+class="overlay">Chi tiết</div>
+</a></div><h3 class="h3_wood"><a
+href="javascript:void(0);" title="tiêu đề tên">Rèm cửa #03</a></h3><div
+class="service_line_wood"></div><div
+class="intro_wood">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc arcu purus, ultricies id ex ac, sollicitudin sagittis diam. Etiam libero ipsum
+sagittis bibendum ex ac</div></div></div></div></div><div
+class="readmore">
+<a
+href="javascript:void(0)" title="tiêu đề tên">Xem tất cả</a></div></div><div
+class="giay_gian_tuong_box"><div
+class="container"><div
+class="row"><div
+class="col"><h2 class="dvcchungtoi">Giấy gián tường</h2><div
+class="paracell"><div
+class="k2-left"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/k2-left.png" alt="tên hình"></div><div
+class="tieude"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/icon_tieude.png" alt="tên hình"></div><div
+class="k2-right"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/k2-right.png" alt="tên hình"></div></div></div></div><div
+class="row"><div
+class="col-sm-4"><div
+class="giay_dt_box_wp"><div
+class="wood_img">
+<a
+href="javascript:void(0)" title="tiêu đề tên"><div
+class="do_go_img"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/img_9.png" alt="tên hình"></div><div
+class="overlay">Chi tiết</div>
+</a></div><h3 class="h3_wood"><a
+href="javascript:void(0);" title="tiêu đề tên">Giấy gián tường #01</a></h3><div
+class="service_line_wood"></div><div
+class="intro_wood">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc arcu purus, ultricies id ex ac, sollicitudin sagittis diam. Etiam libero ipsum
+sagittis bibendum ex ac</div></div></div><div
+class="col-sm-4"><div
+class="giay_dt_box_wp"><div
+class="wood_img">
+<a
+href="javascript:void(0)" title="tiêu đề tên"><div
+class="do_go_img"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/img_10.png" alt="tên hình"></div><div
+class="overlay">Chi tiết</div>
+</a></div><h3 class="h3_wood"><a
+href="javascript:void(0);" title="tiêu đề tên">Giấy gián tường #02</a></h3><div
+class="service_line_wood"></div><div
+class="intro_wood">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc arcu purus, ultricies id ex ac, sollicitudin sagittis diam. Etiam libero ipsum
+sagittis bibendum ex ac</div></div></div><div
+class="col-sm-4"><div
+class="giay_dt_box_wp"><div
+class="wood_img">
+<a
+href="javascript:void(0)" title="tiêu đề tên"><div
+class="do_go_img"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/img_11.png" alt="tên hình"></div><div
+class="overlay">Chi tiết</div>
+</a></div><h3 class="h3_wood"><a
+href="javascript:void(0);" title="tiêu đề tên">Giấy gián tường #03</a></h3><div
+class="service_line_wood"></div><div
+class="intro_wood">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc arcu purus, ultricies id ex ac, sollicitudin sagittis diam. Etiam libero ipsum
+sagittis bibendum ex ac</div></div></div></div></div><div
+class="readmore">
+<a
+href="javascript:void(0)" title="tiêu đề tên">Xem tất cả</a></div></div><div
+class="dan_phoi_thong_minh_box"><div
+class="container"><div
+class="row"><div
+class="col"><h2 class="dvcchungtoi">Dàn phơi thông minh</h2><div
+class="paracell"><div
+class="k2-left"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/k2-left.png" alt="tên hình"></div><div
+class="tieude"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/icon_tieude.png" alt="tên hình"></div><div
+class="k2-right"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/k2-right.png" alt="tên hình"></div></div></div></div><div
+class="row"><div
+class="col-sm-4"><div
+class="dan_phoi_box_wp"><div
+class="wood_img">
+<a
+href="javascript:void(0)" title="tiêu đề tên"><div
+class="do_go_img"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/img_12.png" alt="tên hình"></div><div
+class="overlay">Chi tiết</div>
+</a></div><h3 class="h3_wood"><a
+href="javascript:void(0);" title="tiêu đề tên">Dàn phơi thông minh #01</a></h3><div
+class="service_line_wood"></div><div
+class="intro_wood">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc arcu purus, ultricies id ex ac, sollicitudin sagittis diam. Etiam libero ipsum
+sagittis bibendum ex ac</div></div></div><div
+class="col-sm-4"><div
+class="dan_phoi_box_wp"><div
+class="wood_img">
+<a
+href="javascript:void(0)" title="tiêu đề tên"><div
+class="do_go_img"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/img_13.png" alt="tên hình"></div><div
+class="overlay">Chi tiết</div>
+</a></div><h3 class="h3_wood"><a
+href="javascript:void(0);" title="tiêu đề tên">Dàn phơi thông minh #02</a></h3><div
+class="service_line_wood"></div><div
+class="intro_wood">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc arcu purus, ultricies id ex ac, sollicitudin sagittis diam. Etiam libero ipsum
+sagittis bibendum ex ac</div></div></div><div
+class="col-sm-4"><div
+class="dan_phoi_box_wp"><div
+class="wood_img">
+<a
+href="javascript:void(0)" title="tiêu đề tên"><div
+class="do_go_img"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/img_14.png" alt="tên hình"></div><div
+class="overlay">Chi tiết</div>
+</a></div><h3 class="h3_wood"><a
+href="javascript:void(0);" title="tiêu đề tên">Dàn phơi thông minh #03</a></h3><div
+class="service_line_wood"></div><div
+class="intro_wood">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc arcu purus, ultricies id ex ac, sollicitudin sagittis diam. Etiam libero ipsum
+sagittis bibendum ex ac</div></div></div></div></div><div
+class="readmore">
+<a
+href="javascript:void(0)" title="tiêu đề tên">Xem tất cả</a></div></div><div
+class="idea_box"><div
+class="container"><div
+class="row"><div
+class="col-lg-12"><h2 class="y_kien_khach_hang">Ý kiến khách hàng</h2><div
+class="owl_carousel_customer owl-carousel owl-theme owl-loaded"><div
+class="item"><div
+class="comment_box"><div
+class="idear_user_intro">
+Our best-in-class WordPress solution with additio nal optiz ation to make running a WooCommerce
+online store easy. Our prices are clear and straight forward so you can
+always get the best deal without  about intro rate gimmicks or hidden fees.</div><div
+class="idea_area_box"><div
+class="idea_user_avatar">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/avatar_1.png" alt="tên hình"></a></div><div
+class="idea_user_info"><h3 class="idea_user_name">DJ Khalid</h3><h4 class="idea_user_position">CEO Khulna People</h4></div><div
+class="dau_nhay">
+<img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/icon_ykien.png" alt="tên hình"></div><div
+class="clr"></div></div></div></div><div
+class="item"><div
+class="comment_box"><div
+class="idear_user_intro">
+Our best-in-class WordPress solution with additio nal optiz ation to make running a WooCommerce
+online store easy. Our prices are clear and straight forward so you can
+always get the best deal without  about intro rate gimmicks or hidden fees.</div><div
+class="idea_area_box"><div
+class="idea_user_avatar">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/avatar_2.png" alt="tên hình"></a></div><div
+class="idea_user_info"><h3 class="idea_user_name">DJ Khalid</h3><h4 class="idea_user_position">CEO Khulna People</h4></div><div
+class="dau_nhay">
+<img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/icon_ykien.png" alt="tên hình"></div><div
+class="clr"></div></div></div></div><div
+class="item"><div
+class="comment_box"><div
+class="idear_user_intro">
+Our best-in-class WordPress solution with additio nal optiz ation to make running a WooCommerce
+online store easy. Our prices are clear and straight forward so you can
+always get the best deal without  about intro rate gimmicks or hidden fees.</div><div
+class="idea_area_box"><div
+class="idea_user_avatar">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/avatar_3.png" alt="tên hình"></a></div><div
+class="idea_user_info"><h3 class="idea_user_name">DJ Khalid</h3><h4 class="idea_user_position">CEO Khulna People</h4></div><div
+class="dau_nhay">
+<img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/icon_ykien.png" alt="tên hình"></div><div
+class="clr"></div></div></div></div><div
+class="item"><div
+class="comment_box"><div
+class="idear_user_intro">
+Our best-in-class WordPress solution with additio nal optiz ation to make running a WooCommerce
+online store easy. Our prices are clear and straight forward so you can
+always get the best deal without  about intro rate gimmicks or hidden fees.</div><div
+class="idea_area_box"><div
+class="idea_user_avatar">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/avatar_1.png" alt="tên hình"></a></div><div
+class="idea_user_info"><h3 class="idea_user_name">DJ Khalid</h3><h4 class="idea_user_position">CEO Khulna People</h4></div><div
+class="dau_nhay">
+<img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/icon_ykien.png" alt="tên hình"></div><div
+class="clr"></div></div></div></div><div
+class="item"><div
+class="comment_box"><div
+class="idear_user_intro">
+Our best-in-class WordPress solution with additio nal optiz ation to make running a WooCommerce
+online store easy. Our prices are clear and straight forward so you can
+always get the best deal without  about intro rate gimmicks or hidden fees.</div><div
+class="idea_area_box"><div
+class="idea_user_avatar">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/avatar_2.png" alt="tên hình"></a></div><div
+class="idea_user_info"><h3 class="idea_user_name">DJ Khalid</h3><h4 class="idea_user_position">CEO Khulna People</h4></div><div
+class="dau_nhay">
+<img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/icon_ykien.png" alt="tên hình"></div><div
+class="clr"></div></div></div></div><div
+class="item"><div
+class="comment_box"><div
+class="idear_user_intro">
+Our best-in-class WordPress solution with additio nal optiz ation to make running a WooCommerce
+online store easy. Our prices are clear and straight forward so you can
+always get the best deal without  about intro rate gimmicks or hidden fees.</div><div
+class="idea_area_box"><div
+class="idea_user_avatar">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/avatar_3.png" alt="tên hình"></a></div><div
+class="idea_user_info"><h3 class="idea_user_name">DJ Khalid</h3><h4 class="idea_user_position">CEO Khulna People</h4></div><div
+class="dau_nhay">
+<img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/icon_ykien.png" alt="tên hình"></div><div
+class="clr"></div></div></div></div><div
+class="item"><div
+class="comment_box"><div
+class="idear_user_intro">
+Our best-in-class WordPress solution with additio nal optiz ation to make running a WooCommerce
+online store easy. Our prices are clear and straight forward so you can
+always get the best deal without  about intro rate gimmicks or hidden fees.</div><div
+class="idea_area_box"><div
+class="idea_user_avatar">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/avatar_1.png" alt="tên hình"></a></div><div
+class="idea_user_info"><h3 class="idea_user_name">DJ Khalid</h3><h4 class="idea_user_position">CEO Khulna People</h4></div><div
+class="dau_nhay">
+<img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/icon_ykien.png" alt="tên hình"></div><div
+class="clr"></div></div></div></div><div
+class="item"><div
+class="comment_box"><div
+class="idear_user_intro">
+Our best-in-class WordPress solution with additio nal optiz ation to make running a WooCommerce
+online store easy. Our prices are clear and straight forward so you can
+always get the best deal without  about intro rate gimmicks or hidden fees.</div><div
+class="idea_area_box"><div
+class="idea_user_avatar">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/avatar_2.png" alt="tên hình"></a></div><div
+class="idea_user_info"><h3 class="idea_user_name">DJ Khalid</h3><h4 class="idea_user_position">CEO Khulna People</h4></div><div
+class="dau_nhay">
+<img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/icon_ykien.png" alt="tên hình"></div><div
+class="clr"></div></div></div></div><div
+class="item"><div
+class="comment_box"><div
+class="idear_user_intro">
+Our best-in-class WordPress solution with additio nal optiz ation to make running a WooCommerce
+online store easy. Our prices are clear and straight forward so you can
+always get the best deal without  about intro rate gimmicks or hidden fees.</div><div
+class="idea_area_box"><div
+class="idea_user_avatar">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/avatar_3.png" alt="tên hình"></a></div><div
+class="idea_user_info"><h3 class="idea_user_name">DJ Khalid</h3><h4 class="idea_user_position">CEO Khulna People</h4></div><div
+class="dau_nhay">
+<img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/icon_ykien.png" alt="tên hình"></div><div
+class="clr"></div></div></div></div></div></div></div></div></div><div
+class="thuong_hieu_box"><div
+class="container"><div
+class="row"><div
+class="col"><h2 class="dvcchungtoi">Hệ thống thương hiệu</h2><div
+class="thuong_hieu_box_arrow"><div
+class="owl_carousel_trade owl-carousel owl-theme owl-loaded"><div
+class="item">
+<a
+href="javascript:void(0);" title="tiêu đề tên" target="_blank" rel="nofollow"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/logo_doitac1.png" alt="tên hình"></a></div><div
+class="item">
+<a
+href="javascript:void(0);" title="tiêu đề tên" target="_blank" rel="nofollow"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/logo_doitac2.png" alt="tên hình"></a></div><div
+class="item">
+<a
+href="javascript:void(0);" title="tiêu đề tên" target="_blank" rel="nofollow"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/logo_doitac3.png" alt="tên hình"></a></div><div
+class="item">
+<a
+href="javascript:void(0);" title="tiêu đề tên" target="_blank" rel="nofollow"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/logo_doitac4.png" alt="tên hình"></a></div><div
+class="item">
+<a
+href="javascript:void(0);" title="tiêu đề tên" target="_blank" rel="nofollow"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/logo_doitac5.png" alt="tên hình"></a></div><div
+class="item">
+<a
+href="javascript:void(0);" title="tiêu đề tên" target="_blank" rel="nofollow"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/logo_doitac6.png" alt="tên hình"></a></div><div
+class="item">
+<a
+href="javascript:void(0);" title="tiêu đề tên" target="_blank" rel="nofollow"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/logo_doitac1.png" alt="tên hình"></a></div><div
+class="item">
+<a
+href="javascript:void(0);" title="tiêu đề tên" target="_blank" rel="nofollow"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/logo_doitac2.png" alt="tên hình"></a></div><div
+class="item">
+<a
+href="javascript:void(0);" title="tiêu đề tên" target="_blank" rel="nofollow"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/logo_doitac3.png" alt="tên hình"></a></div><div
+class="item">
+<a
+href="javascript:void(0);" title="tiêu đề tên" target="_blank" rel="nofollow"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/logo_doitac4.png" alt="tên hình"></a></div><div
+class="item">
+<a
+href="javascript:void(0);" title="tiêu đề tên" target="_blank" rel="nofollow"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/logo_doitac5.png" alt="tên hình"></a></div><div
+class="item">
+<a
+href="javascript:void(0);" title="tiêu đề tên" target="_blank" rel="nofollow"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/logo_doitac6.png" alt="tên hình"></a></div></div></div></div></div></div></div><div
+class="container"><div
+class="row"><div
+class="col-lg-6"><h2 class="content_bottom_h">Tin tức mới nhất</h2><div><div
+class="article_box"><div
+class="row"><div
+class="col-lg-6 col-md-4">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><div
+class="article_hinh_anh">
+<figure><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/img_news1.png" alt="tên hình"></figure></div>
+</a></div><div
+class="col-lg-6 col-md-8"><div
+class="article_info"><div
+class="article_info_date_post">12.06.2018</div><h3 class="article_info_title"><a
+href="javascript:void(0);" title="tiêu đề tên">Khoác áo mới cho phòng khách đón hè</a></h3><div
+class="article_info_intro">
+Những màu sắc từ mùa đông sang mùa xuân như thảm lông, gối ôm… đã không còn phù hợp với không khí mùa hè. Tuy nhiên bạn không cần.Những màu sắc từ mùa đông sang mùa xuân như thảm lông, gối ôm… đã khôn...</div></div></div></div></div><div
+class="article_box"><div
+class="row"><div
+class="col-lg-6 col-md-4">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><div
+class="article_hinh_anh">
+<figure><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/img_news2.png" alt="tên hình"></figure></div>
+</a></div><div
+class="col-lg-6 col-md-8"><div
+class="article_info"><div
+class="article_info_date_post">12.06.2018</div><h3 class="article_info_title"><a
+href="javascript:void(0);" title="tiêu đề tên">Những cách thiết kế nội thất khiến ngôi nhà rộng rãi hơn</a></h3><div
+class="article_info_intro">
+Dưới đây là một số gợi ý giúp bạn thiết kế nội thất giúp ngôi nhà của mình trông sáng sủa, rộng rãi và thoáng mát hơn.Dưới đây là một số gợi ý giúp bạn thiết kế nội thất giúp ngôi nhà của mình trông s...</div></div></div></div></div></div><div
+class="readmore2">
+<a
+href="javascript:void(0)" title="tiêu đề tên">Xem tất cả</a></div></div><div
+class="col-lg-6"><h2 class="content_bottom_h">Hình ảnh</h2><div
+class="owl_carousel_gallery owl-carousel owl-theme owl-loaded"><div
+class="item"><div><div
+class="row"><div
+class="col-md-6"><div
+class="img_bottom">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><div><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/hinhanh1.png" alt="tên hình"></div><div
+class="overlay"><i
+class="fa fa-camera" aria-hidden="true"></i></div>
+</a></div></div><div
+class="col-md-6"><div
+class="img_bottom">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><div><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/hinhanh2.png" alt="tên hình"></div><div
+class="overlay"><i
+class="fa fa-camera" aria-hidden="true"></i></div>
+</a></div></div><div
+class="col-md-6"><div
+class="img_bottom">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><div><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/hinhanh3.png" alt="tên hình"></div><div
+class="overlay"><i
+class="fa fa-camera" aria-hidden="true"></i></div>
+</a></div></div><div
+class="col-md-6"><div
+class="img_bottom">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><div><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/hinhanh4.png" alt="tên hình"></div><div
+class="overlay"><i
+class="fa fa-camera" aria-hidden="true"></i></div>
+</a></div></div></div></div></div><div
+class="item"><div><div
+class="row"><div
+class="col-md-6"><div
+class="img_bottom">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><div><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/hinhanh1.png" alt="tên hình"></div><div
+class="overlay"><i
+class="fa fa-camera" aria-hidden="true"></i></div>
+</a></div></div><div
+class="col-md-6"><div
+class="img_bottom">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><div><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/hinhanh2.png" alt="tên hình"></div><div
+class="overlay"><i
+class="fa fa-camera" aria-hidden="true"></i></div>
+</a></div></div><div
+class="col-md-6"><div
+class="img_bottom">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><div><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/hinhanh3.png" alt="tên hình"></div><div
+class="overlay"><i
+class="fa fa-camera" aria-hidden="true"></i></div>
+</a></div></div><div
+class="col-md-6"><div
+class="img_bottom">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><div><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/hinhanh4.png" alt="tên hình"></div><div
+class="overlay"><i
+class="fa fa-camera" aria-hidden="true"></i></div>
+</a></div></div></div></div></div></div></div></div></div><div
+class="footer"><div
+class="container"><div
+class="row"><div
+class="col-lg-12"><div
+class="footer_logo">
+<a
+href="javascript:void(0);"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/text_goldenhome.png" alt="tên hình"></a></div><div
+class="footer_logo_line"></div></div></div><div
+class="row"><div
+class="col-lg-5"><div
+class="footer_info"><h2 class="tru_so_chinh">Trụ sở chính</h2><div
+class="address_r">
+<i
+class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;&nbsp;42/1 Đường 17, P. Hiệp Bình Chánh, Q. Thủ Đức, TP.HCm</div><div
+class="telephone_r">
+<i
+class="fa fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;<a
+href="tel:0903600002" title="tiêu đề tên">0903 600 002</a></div><div
+class="telephone_r">
+<i
+class="fa fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;<a
+href="mailto:someone@example.com" title="tiêu đề tên">nguyenbaotuoc@gmail.com</a></div><h2 class="about_us">Về chúng tôi</h2><div
+class="about_us_intro">Golden Homes được thành lập vào năm 2010 là một trong các công ty hàng đầu trong lĩnh vực thiết kế và thi công nội thất. Chúng tôi là những con người trẻ, tràn đầy nhiệt huyết kinh doanh với tâm huyết
+là mang đến cho khách hàng những sản phẩm tốt nhất.</div></div></div><div
+class="col-lg-3"><div
+class="footer_info"><h2 class="tru_so_chinh">Sản phẩm</h2><ul
+class="menu_footer"><li><a
+href="javascript:void(0);">Đồ gỗ</a></li><li><a
+href="javascript:void(0);">Rèm cửa</a></li><li><a
+href="javascript:void(0);">Giấy dán tường</a></li><li><a
+href="javascript:void(0);">Khung treo thông minh</a></li></ul><ul
+class="footer_social"><li><a
+href="javascript:void(0);" title="tiêu đề tên" target="_blank" rel="nofollow"><i
+class="fa fa-facebook" aria-hidden="true"></i></a></li><li><a
+href="javascript:void(0);" title="tiêu đề tên" target="_blank" rel="nofollow"><i
+class="fa fa-youtube" aria-hidden="true"></i></a></li><li><a
+href="javascript:void(0);" title="tiêu đề tên" target="_blank" rel="nofollow"><i
+class="fa fa-twitter" aria-hidden="true"></i></a></li><li><a
+href="javascript:void(0);" title="tiêu đề tên" target="_blank" rel="nofollow"><i
+class="fa fa-google-plus" aria-hidden="true"></i></a></li></ul></div></div><div
+class="col-lg-4"><div
+class="map_box">
+<a
+href="javascript:void(0);" title="tiêu đề tên"><img
+src="http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/img/ban-do.jpg" alt="tên hình"></a></div></div></div></div><div
+class="footer_copyright">
+<span
+class="copyright">COPYRIGHT BY</span> <span
+class="golden_home"><a
+href="javascript:void(0);" title="tiêu đề tên">Golden Homes</a></span> <span
+class="copyright">|</span> <span
+class="copyright">POWERD BY</span> <span
+class="golden_home"><a
+href="https://redi.vn" title="REDI - Thiết kế website chuẩn Marketing &amp; giải pháp Digital Marketing" target="_blank" rel="nofollow">REDI</a></span></div></div>
+ <script type="text/javascript">var Tawk_API=Tawk_API||{};
+var Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5aab37c34b401e45400dc6d6/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();</script> <div
+id="stop" class="scrollTop">
+<a
+href="javascript:void(0);"><i
+class="fa fa-angle-up" aria-hidden="true"></i></a></div><div
+class="alo_phone_p"><a
+href="tel:0903600002" ><div
+class="callnowone"><div
+class="animated infinite zoomIn callnow-circle"></div><div
+class="animated infinite pulse callnow-circle-fill"></div><div
+class="animated infinite tada callnow-img-circle"></div></div>
+</a></div><script type='text/javascript'>var wpcf7 = {"apiSettings":{"root":"http:\/\/goldenhomes.dienkim\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"H\u00e3y x\u00e1c nh\u1eadn r\u1eb1ng b\u1ea1n kh\u00f4ng ph\u1ea3i l\u00e0 robot."}},"cached":"1"};</script> <!--[if lt IE 9]> <script type='text/javascript' src='http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/lib/html5/html5shiv-printshiv.min.js'></script> <![endif]-->
+<!--[if lt IE 9]> <script type='text/javascript' src='http://goldenhomes.dienkim/wp-content/themes/redi-goldenhomes/assets/lib/html5/respond.min.js'></script> <![endif]--> <script type="text/javascript" defer src="http://goldenhomes.dienkim/wp-content/cache/autoptimize/js/autoptimize_ee5c253f9cdc785c15a67570cd30cbfd.js"></script></body></html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 64/66 objects using disk
+Page Caching using disk: enhanced 
+Database Caching 10/12 queries in 0.007 seconds using disk
+
+Served from: goldenhomes.dienkim @ 2018-11-23 10:22:15 by W3 Total Cache
+-->

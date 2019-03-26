@@ -1,0 +1,28 @@
+.mybreadcrumb{
+	list-style: none;
+	padding-left: 0;
+	li{
+		float: left;
+		margin-left: 5px;
+		color: #fff;
+		a{
+			margin-right: 5px;
+			color: #fff;
+			font-size: 13px;
+		}		
+	}
+}
+.mybreadcrumb-source-recruitment{
+	list-style: none;
+	padding-left: 0;
+	li{
+		float: left;
+		margin-left: 5px;
+		color: $logo_bg;
+		padding: 10px 0px;
+		a{
+			margin-right: 5px;
+			color: $logo_bg;
+		}		
+	}
+}
